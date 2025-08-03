@@ -1,4 +1,4 @@
-# 🎮 Subscription Revenue Metrics (SQL)
+# 🎮 Subscription Revenue Metrics (SQL)   https://public.tableau.com/app/profile/oksana.lesnikova/viz/Revenue_Metrics_Dashboard_17532814141730/UserRetentionandRevenueAnalysis
 
 This project calculates key revenue metrics for a gaming platform using SQL, based on user payment data.
 
